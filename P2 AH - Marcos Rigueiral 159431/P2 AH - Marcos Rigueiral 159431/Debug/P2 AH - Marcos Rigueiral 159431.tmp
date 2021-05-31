@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\Debug\P2 AH - Marcos Rigueiral 159431.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>P2 AH - Marcos Rigueiral 159431.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>P2 AH - Marcos Rigueiral 159431.map</FILE>
+  <FILE>P2 AH - Marcos Rigueiral 159431.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>106</LINE></start>
+  <MUL16x16><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>8</LINE></MUL16x16>
+  <DIV3216><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>38</LINE></DIV3216>
+  <LOOP><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>69</LINE></LOOP>
+  <DONE><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>92</LINE></DONE>
+  <SKIP><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>90</LINE></SKIP>
+  <delay10us><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>97</LINE></delay10us>
+  <topa><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>99</LINE></topa>
+  <disparar><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>115</LINE></disparar>
+  <increg><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>122</LINE></increg>
+  <ler_sensor><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>125</LINE></ler_sensor>
+  <calcular_pulso><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>138</LINE></calcular_pulso>
+  <addr18><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>135</LINE></addr18>
+  <calcular_ciclos><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>148</LINE></calcular_ciclos>
+  <calcular_tempo><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>170</LINE></calcular_tempo>
+  <calcular_distancia><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>178</LINE></calcular_distancia>
+  <L1><FILE>c:\users\marcos rigueiral\Documents\Atmel Studio\7.0\P2 AH - Marcos Rigueiral 159431\P2 AH - Marcos Rigueiral 159431\main.asm</FILE><LINE>195</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
